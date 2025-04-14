@@ -82,7 +82,7 @@ export const About = () => {
                                 <li>Python</li>
                                 <li>Flask</li>
                                 <li>MySql</li>
-                                <li>FireBase</li>
+                                <li>CloudFlare</li>
                             </ul>
 
                         </div>
