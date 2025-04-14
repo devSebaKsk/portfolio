@@ -19,7 +19,7 @@ export const Footer = () => {
                         <div className='mb-8'>
                             <p className='text-lg mb1'>Phone</p>
                             <a className='text-2xl font-semibold underline decoration-gray-400 decoration-2 underline-offset-4 hover:decoration-gray-200 transition duration-300'
-                                href='mailto:sebquito.sc@gmail.com'>
+                                href='wa.me/+5492995124686'>
                                 (+54)2995124686
                             </a>
                         </div>
